@@ -1,0 +1,12 @@
+push - Incorrect implementation
+    o can be null. We can fix the problem by adding "o != null" to the @pre.
+    A counter example - If we put o as null the inv will be incorrect.
+
+pop - Correct implementation
+
+top - Correct implementation
+
+isEmpty -Incorrect implementation.
+       A counter example - if we put a size 1 linkedlist, we will get false, that is because 1 !=0.
+       The inv on the other hand says that we will get True.
+       We can fix it by changing the @post to "@post @return == true iff elements.size() == 0"

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/hw6-yanivmu.iml" filepath="$PROJECT_DIR$/.idea/hw6-yanivmu.iml" />
+      <module fileurl="file://$PROJECT_DIR$/partsA-C/partsA-C.iml" filepath="$PROJECT_DIR$/partsA-C/partsA-C.iml" />
+      <module fileurl="file://$PROJECT_DIR$/riddles/riddles.iml" filepath="$PROJECT_DIR$/riddles/riddles.iml" />
+    </modules>
+  </component>
+</project>
